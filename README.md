@@ -15,7 +15,7 @@ You can change the monitoring frequency and time by changing the `frequency` and
 ````
 go run main.go
 ````
-Follow the instructions on the menu.
+Follow the menu instructions.
 
 ## Copyright & License ##
 
