@@ -2,7 +2,7 @@
 This is a simple application about how to use Go to monitor websites using the standard library.
 
 ## Installation
-Clone the repository.
+Clone the repository:
 ````
 git clone https://github.com/kirkgo/go-site-monitor.git
 ````
