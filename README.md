@@ -8,10 +8,10 @@ git clone https://github.com/kirkgo/go-site-monitor.git
 ````
 
 ## Settings
-Add the sites you want to monitor to sites.txt. Remember to add one site per line.
+Add the sites you want to monitor to `sites.txt`. Remember to add one site per line.
 You can change the monitoring frequency and time by changing the `frequency` and `delay` constants to your needs.
 
-How to run:
+## How to run
 ````
 go run main.go
 ````
